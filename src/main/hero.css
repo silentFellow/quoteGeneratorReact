@@ -30,6 +30,7 @@
 .quote .Aquote {
   height: 85%;
   width: 100%;
+  overflow: auto;
 }
 
 .quote .author {
